@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@custom-variant dark (&:where([data-theme=synthwave], [data-theme=synthwave] *));
+@plugin "daisyui" {
+  themes: cupcake --default, synthwave --prefersdark;
+}
+
+@layer base {
+  main.content {
+    color: var(--color-neutral-content);
+    > * {
+      @apply mb-4;
+    }
+    h1 {
+      @apply text-3xl;
+    }
+    h2 {
+      @apply text-2xl;
+    }
+    h3 {
+      @apply text-xl;
+    }
+  }
+}
