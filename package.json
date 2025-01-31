@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "help": "bun ./src/utils/run-help.ts",
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "info": "next info",
@@ -35,6 +35,7 @@
     "@mdx-js/react": "^3.1.0",
     "@next/mdx": "^15.1.6",
     "class-variance-authority": "^0.7.1",
+    "codehike": "^1.0.4",
     "lucide-react": "^0.474.0",
     "motion": "^12.0.6",
     "next": "^15.1.6",

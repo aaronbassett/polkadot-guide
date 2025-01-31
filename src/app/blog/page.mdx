@@ -13,6 +13,7 @@ interface CosmicKaleidoscope<T = string> {
 
 function decodeCosmicEssence(input: CosmicKaleidoscope | number): string {
   if (typeof input === 'number') {
+    // !callout[/cosmic/] Far out man
     return `Spontaneous cosmic integer detected: ${input * 42}`;
   }
   return `Embrace the kaleidoscope: ${input.cosmicFlavor} x${input.ephemeralOctopusCount}`;
@@ -29,6 +30,7 @@ Quirky constructor funnels evoke pancake-flavored type intersections, merging st
 
 ```typescript
 class QuantumWaffleStand {
+  // !className line-through
   private stash: Record<string, unknown> = {};
 
   constructor(private drizzleFactor: number, public secretIngredient: string) {}
@@ -37,6 +39,7 @@ class QuantumWaffleStand {
     this.stash[key] = value;
   }
 
+  // !className[/T/g] bg-red-700 rounded-lg px-1
   retrieveIngredient<T = unknown>(key: string): T | undefined {
     return this.stash[key] as T;
   }
