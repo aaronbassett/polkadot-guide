@@ -3,7 +3,7 @@ import type { FC } from "react";
 
 const Navbar: FC = () => {
   return (
-    <div className="navbar w-full bg-base-100">
+    <div className="navbar w-full border-neutral border-t border-b bg-secondary text-secondary-content">
       <div className="flex-1">
         <Link href="/" className="btn btn-ghost text-xl">
           Doctrinaire
