@@ -3,7 +3,7 @@ const BlogLayout = ({
 }: Readonly<{
   children: React.ReactNode;
 }>) => {
-  return <main className="content px-10">{children}</main>;
+  return <main className="prose prose-2xl">{children}</main>;
 };
 
 export default BlogLayout;

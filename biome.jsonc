@@ -7,10 +7,7 @@
     "defaultBranch": "main"
   },
   "files": {
-    "ignoreUnknown": false,
-    "ignore": [
-      "./src/app/styles/globals.css" // biome does not play well with @plugin syntax
-    ]
+    "ignoreUnknown": false
   },
   "formatter": {
     "indentStyle": "space",

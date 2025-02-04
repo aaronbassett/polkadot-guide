@@ -6,7 +6,7 @@ const Page = () => {
       <p>
         <a
           href="https://github.com/aaronbassett/doctrinaire"
-          className="link link-neutral text-sm no-underline"
+          className="link link-primary text-sm no-underline"
         >
           https://github.com/aaronbassett/doctrinaire
         </a>

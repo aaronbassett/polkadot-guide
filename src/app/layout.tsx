@@ -16,9 +16,13 @@ export default function RootLayout({
   return (
     <html lang="en" data-theme="synthwave">
       <body>
-        <div className="mockup-browser mx-auto mt-30 max-w-5/6 border border-base-400">
+        <div className="mockup-browser mx-auto my-10 max-w-screen-lg border border-neutral">
           <div className="mockup-browser-toolbar">
-            <div className="input">https://github.com/aaronbassett/doctrinaire</div>
+            <div className="input text-neutral-content/60">
+              <a href="https://github.com/aaronbassett/doctrinaire">
+                github.com/aaronbassett/doctrinaire
+              </a>
+            </div>
           </div>
           <Navbar />
           <div className="grid min-h-96 place-content-center space-y-10 bg-base-200 py-10">
