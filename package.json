@@ -41,29 +41,28 @@
     "next": "^15.1.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "tailwindcss-animate": "^1.0.7",
     "zustand": "^5.0.3"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
     "@commitlint/cli": "^19.6.1",
     "@commitlint/config-conventional": "^19.6.0",
+    "@tailwindcss/postcss": "^4.0.0",
     "@tailwindcss/typography": "^0.5.16",
     "@types/mdx": "^2.0.13",
     "@types/node": "^22.12.0",
     "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
-    "autoprefixer": "^10.4.20",
     "chalk": "^5.4.1",
     "clsx": "^2.1.1",
     "commitizen": "^4.3.1",
     "commitlint-config-gitmoji": "^2.3.1",
     "cz-emoji-conventional": "^1.1.0",
-    "daisyui": "^4.12.23",
+    "daisyui": "^5.0.0-beta.6",
     "husky": "^9.1.7",
     "postcss": "^8.5.1",
     "tailwind-merge": "^2.6.0",
-    "tailwindcss": "3",
+    "tailwindcss": "^4.0.0",
     "typescript": "~5.6.2"
   }
 }
