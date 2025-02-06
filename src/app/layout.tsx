@@ -16,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en" data-theme="synthwave">
       <body>
-        <div className="mockup-browser mx-auto my-10 max-w-screen-lg border border-neutral">
+        <div className="mockup-browser mx-auto my-10 max-w-(--breakpoint-lg) border border-neutral">
           <div className="mockup-browser-toolbar">
             <div className="input text-neutral-content/60">
               <a href="https://github.com/aaronbassett/doctrinaire">

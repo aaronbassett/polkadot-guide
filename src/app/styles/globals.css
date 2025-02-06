@@ -1,3 +1,7 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss';
+@custom-variant dark (&:where([data-theme=night], [data-theme=night] *));
+@plugin "@tailwindcss/typography";
+@plugin "daisyui" {
+  themes: silk --default, night --prefersdark;
+  logs: true;
+}
