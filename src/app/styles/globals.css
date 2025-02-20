@@ -1,7 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Karla:ital,wght@0,200..800;1,200..800&family=Unbounded:wght@200..900&display=swap');
+
 @import 'tailwindcss';
 @custom-variant dark (&:where([data-theme=night], [data-theme=night] *));
 @plugin "@tailwindcss/typography";
 @plugin "daisyui" {
-  themes: silk --default, night --prefersdark;
+  themes: cupcake --default, night --prefersdark;
   logs: true;
+}
+
+@theme {
+  --font-polkadot: "Unbounded", "sans-serif";
+  --font-display: "Karla", "sans-serif";
+  --font-content: "Inconsolata", "sans-serif";
 }

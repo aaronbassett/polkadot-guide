@@ -1,0 +1,146 @@
+[
+  {
+    "name": "300DAO",
+    "url": "https://www.300dao.xyz/",
+    "caption": "Exclusive group of 300 investors focused on disruptive technologies",
+    "path": "assets/images/daos/300dao-screenshot.png"
+  },
+  {
+    "name": "Babel Universe",
+    "url": "https://www.babeldao.co/",
+    "caption": "Collaborative fiction IP monetization platform",
+    "path": "assets/images/daos/babel-universe-screenshot.png"
+  },
+  {
+    "name": "BitDAO",
+    "url": "https://www.bitdao.io",
+    "caption": "Large-scale decentralized investment and funding platform",
+    "path": "assets/images/daos/bitdao-screenshot.png"
+  },
+  {
+    "name": "BuidlGuidl",
+    "url": "https://buidlguidl.com",
+    "caption": "Ethereum builder community focused on learning and shipping",
+    "path": "assets/images/daos/buidlguidl-screenshot.png"
+  },
+  {
+    "name": "Cabin DAO",
+    "url": "https://www.cabin.city",
+    "caption": "Network of coliving communities for remote workers",
+    "path": "assets/images/daos/cabin-dao-screenshot.png"
+  },
+  {
+    "name": "CellarDAO Society",
+    "url": "https://landing-gules-six.vercel.app/",
+    "caption": "Blockchain-powered wine & spirits investment community",
+    "path": "assets/images/daos/cellardao-screenshot.png"
+  },
+  {
+    "name": "CreatorDAO",
+    "url": "https://www.creatordao.com",
+    "caption": "Supporting and empowering content creators in Web3",
+    "path": "assets/images/daos/creatordao-screenshot.png"
+  },
+  {
+    "name": "Cult DAO",
+    "url": "https://cultdao.io",
+    "caption": "Supporting builders of decentralized future",
+    "path": "assets/images/daos/cult-dao-screenshot.png"
+  },
+  {
+    "name": "Developer DAO",
+    "url": "https://www.developerdao.com",
+    "caption": "Community of web3 builders and creators",
+    "path": "assets/images/daos/developer-dao-screenshot.png"
+  },
+  {
+    "name": "Friends With Benefits",
+    "url": "https://www.fwb.help",
+    "caption": "Token-gated community for creatives and Web3 enthusiasts",
+    "path": "assets/images/daos/friends-with-benefits-screenshot.png"
+  },
+  {
+    "name": "GiveStation",
+    "url": "https://givestation.org",
+    "caption": "Decentralized philanthropic funding platform",
+    "path": "assets/images/daos/givestation-screenshot.png"
+  },
+  {
+    "name": "Global Coin Research",
+    "url": "https://globalcoinresearch.com",
+    "caption": "Investment DAO focused on Web3 projects and education",
+    "path": "assets/images/daos/global-coin-research-screenshot.png"
+  },
+  {
+    "name": "KaizenDAO",
+    "url": "https://kaizendao.com/",
+    "caption": "Web3 entrepreneurs investing in DeFi protocols",
+    "path": "assets/images/daos/kaizendao-screenshot.png"
+  },
+  {
+    "name": "Merit Circle",
+    "url": "https://meritcircle.io",
+    "caption": "Decentralized gaming guild and yield-generating protocol",
+    "path": "assets/images/daos/merit-circle-screenshot.png"
+  },
+  {
+    "name": "MetaCartel",
+    "url": "https://metacartel.xyz",
+    "caption": "Supporting and funding teams building web3",
+    "path": "assets/images/daos/metacartel-screenshot.png"
+  },
+  {
+    "name": "OrangeDAO",
+    "url": "https://www.orangedao.xyz",
+    "caption": "Y Combinator alumni-led Web3 investment collective",
+    "path": "assets/images/daos/orangedao-screenshot.png"
+  },
+  {
+    "name": "Perion DAO",
+    "url": "https://www.perion.gg",
+    "caption": "Esports organization built on blockchain technology",
+    "path": "assets/images/daos/perion-dao-screenshot.png"
+  },
+  {
+    "name": "Raid Guild",
+    "url": "https://raidguild.org",
+    "caption": "Decentralized collective of Web3 product builders",
+    "path": "assets/images/daos/raid-guild-screenshot.png"
+  },
+  {
+    "name": "SeedClub",
+    "url": "https://seedclub.xyz",
+    "caption": "Accelerator and community for tokenized communities",
+    "path": "assets/images/daos/seedclub-screenshot.png"
+  },
+  {
+    "name": "Star Atlas DAO",
+    "url": "https://staratlas.com",
+    "caption": "Governance for the Star Atlas metaverse game",
+    "path": "assets/images/daos/star-atlas-dao-screenshot.png"
+  },
+  {
+    "name": "SuperteamDAO",
+    "url": "https://superteam.fun",
+    "caption": "Talent network supporting Solana ecosystem growth",
+    "path": "assets/images/daos/superteamdao-screenshot.png"
+  },
+  {
+    "name": "Syndicate DAO",
+    "url": "https://syndicate.io",
+    "caption": "Decentralized investing protocol and social network",
+    "path": "assets/images/daos/syndicate-dao-screenshot.png"
+  },
+  {
+    "name": "VectorDAO",
+    "url": "https://vectordao.com",
+    "caption": "Decentralized venture capital and incubation platform",
+    "path": "assets/images/daos/vectordao-screenshot.png"
+  },
+  {
+    "name": "Yield Guild Games",
+    "url": "https://yieldguild.io",
+    "caption": "Play-to-earn gaming guild and NFT ecosystem",
+    "path": "assets/images/daos/yield-guild-games-screenshot.png"
+  }
+]

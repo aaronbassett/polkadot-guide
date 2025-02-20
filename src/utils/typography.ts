@@ -15,4 +15,17 @@ const toApTitleCase = (str: string): string => {
     .join("");
 };
 
-export { toApTitleCase };
+const slugify = (str: string | string[]): string => {
+  if (Array.isArray(str)) {
+    return str.map((s) => slugify(s)).join("-");
+  }
+
+  return str
+    .toLowerCase()
+    .trim()
+    .replace(/[^\w\s-]/g, "-")
+    .replace(/[\s_-]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+};
+
+export { slugify, toApTitleCase };
