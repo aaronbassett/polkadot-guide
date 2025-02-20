@@ -13,7 +13,7 @@ const ModeToggle: FC = () => {
     <PlusGridItem className="lg:navbar-end relative hidden">
       <button
         type="button"
-        className="relative flex items-center px-4 py-3 font-medium text-base"
+        className="relative flex cursor-pointer items-center px-4 py-3 font-medium text-base"
         onClick={() =>
           setTheme(
             theme === config.theme.lightMode ? config.theme.darkMode : config.theme.lightMode,

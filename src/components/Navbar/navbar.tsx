@@ -11,7 +11,7 @@ import { PlusGrid, PlusGridItem, PlusGridRow } from "@/components/PlusGrid";
 
 const Navbar: FC = () => {
   return (
-    <div className="glass fixed top-12 z-50 w-full px-6 shadow-none backdrop-blur-xs sm:top-16 lg:px-8 dark:bg-linear-135 dark:from-neutral-700/30 dark:to-neutral-500/0">
+    <div className="glass fixed top-12 z-100 w-full px-6 shadow-none backdrop-blur-xs sm:top-16 lg:px-8 dark:bg-linear-135 dark:from-neutral-700/30 dark:to-neutral-500/0">
       <PlusGrid>
         <PlusGridRow className="relative flex">
           <div className="navbar-start relative flex gap-6">
