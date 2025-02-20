@@ -21,8 +21,8 @@ export default function RootLayout({
         <ThemeProvider defaultTheme={config.theme.lightMode} themes={config.theme.installed}>
           <div className="relative">
             <Navbar />
-            <div className="relative px-6 lg:px-8">
-              <div className="mx-auto max-w-2xl lg:max-w-7xl">{children}</div>
+            <div className="relative">
+              <div className="w-full">{children}</div>
             </div>
           </div>
         </ThemeProvider>
